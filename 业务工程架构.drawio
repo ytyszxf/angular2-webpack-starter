@@ -1,1 +1,412 @@
-<mxfile host="www.draw.io" modified="2019-11-08T06:45:18.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" version="12.2.2" etag="uSJJiMgiDElFgTYWgG-5" type="github"><diagram id="6MMUitTSTSitjXLHCUDq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-08T08:35:02.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="PtBlYxRVM9ykK83VlLQ0" version="12.2.2" type="github" pages="1">
+  <diagram id="6MMUitTSTSitjXLHCUDq" name="Page-1">
+    <mxGraphModel dx="1320" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint"/>
+            <mxPoint x="1490" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="60" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-8" value="fund-node-jimi-h5 (基米h5 sdk)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry width="250" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-12" value="货架首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry x="19" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-13" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-14" value="市场页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry x="170" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-21" value="未登录页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry x="19.5" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-22" value="信息收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-9">
+          <mxGeometry x="99.5" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="60" width="180" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-25">
+          <mxGeometry width="100" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-27" value="fund-node-extension" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-25">
+          <mxGeometry width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-28" value="热销基金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-25">
+          <mxGeometry x="14" y="40" width="66" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-29" value="基金搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-25">
+          <mxGeometry x="12" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="250" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-34">
+          <mxGeometry width="100" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-36" value="fund-node-advisory（抄底宝）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-34">
+          <mxGeometry width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-37" value="详情页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-34">
+          <mxGeometry x="19" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-40" value="购买记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-34">
+          <mxGeometry x="19.5" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="250" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-49" value="huangjinbao(黄金宝)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-50" value="详情页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-51" value="持仓页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-53" value="福利领取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-54" value="赎回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-47">
+          <mxGeometry x="90" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="250" width="260" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry width="260" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-58" value="fund-node-product(标品)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry width="260" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-59" value="非货详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-60" value="货基详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-61" value="非货持仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-62" value="货基持仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="90" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-161" value="券商持仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="180" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-162" value="私募持仓" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-56">
+          <mxGeometry x="180.5" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="250" width="467" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-63">
+          <mxGeometry width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-65" value="fund-coin-h5 (生息宝)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-63">
+          <mxGeometry width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-66" value="详情页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-63">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-67" value="持仓页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-63">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-70" value="" style="group" vertex="1" connectable="0" parent="zpRi_00Q9C_xyYv95KHU-63">
+          <mxGeometry x="197" width="270" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-70">
+          <mxGeometry width="190" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-72" value="fund-node-portfolio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-70">
+          <mxGeometry width="190" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-73" value="组合详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-70">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-75" value="组合持仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-70">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-76" value="长盈加持仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-70">
+          <mxGeometry x="90" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="250" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-77">
+          <mxGeometry x="90" width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-79" value="fund-node-factory(稳健宝)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-77">
+          <mxGeometry x="90" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-80" value="稳健宝持仓" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-77">
+          <mxGeometry x="100" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-81" value="债基组合持仓" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-77">
+          <mxGeometry x="180" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-82" value="债基收益" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-77">
+          <mxGeometry x="100" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-85" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="420" as="sourcePoint"/>
+            <mxPoint x="1490" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="440" width="820" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry width="820" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-98" value="fund-node-payment (支付)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry width="820" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-99" value="单基金申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="10" y="40" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-100" value="单基金赎回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="105" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-101" value="风测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-102" value="开户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="90" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-103" value="组合申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="190" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-104" value="组合赎回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="275" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-105" value="众禄申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="170" y="90" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-116" value="众禄赎回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="260" y="90" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-117" value="银行卡列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="360" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-118" value="银行卡换卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="360" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-119" value="银行卡换卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="440" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-120" value="更换手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="440" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-121" value="汇款详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="530" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-122" value="汇款管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="530" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-123" value="余额提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="610" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-124" value="生息宝汇款详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="610" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-156" value="私募申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="697" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-157" value="私募赎回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-96">
+          <mxGeometry x="697" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="440" width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-126" value="fund-coin-h5 (生息宝)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="990" y="440" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-127" value="申购" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-128" value="赎回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="480" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-129" value="交易记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="530" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-130" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="440" width="290" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry width="290" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-132" value="fund-node-product(标品)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry width="290" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-133" value="单基金及私募交易记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry x="10" y="40" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-134" value="组合交易记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry x="110" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-158" value="分红设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry x="190" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-164" value="持仓汇总" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-130">
+          <mxGeometry x="170" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-166" value="fund-node-portfolio (组合)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-167" value="跟投设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-173" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="610" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-175" value="fund-node-aip(定投)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-176" value="定投设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-177" value="组合定投设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-178" value="定投列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-179" value="工资定存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-173">
+          <mxGeometry x="90" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-180" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="610" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-180">
+          <mxGeometry width="170" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-182" value="fund-node-common(公共服务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-180">
+          <mxGeometry width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-183" value="免密登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-180">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-184" value="公共营销服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-180">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-187" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="610" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-188" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-187">
+          <mxGeometry width="90" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-189" value="fund-node-app&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-187">
+          <mxGeometry width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-190" value="app下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-187">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-192" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2180" y="443.5" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-193" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-192">
+          <mxGeometry x="-1360" y="170" width="90" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-194" value="fund-node-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-192">
+          <mxGeometry x="-1360" y="170" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-195" value="app服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-192">
+          <mxGeometry x="-1350" y="210" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-197" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="780" as="sourcePoint"/>
+            <mxPoint x="1490" y="780" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-198" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="800" width="270" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-199" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry width="190" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-200" value="fund-activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry width="190" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-201" value="挖黄金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-202" value="世界杯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-203" value="黄金红包雨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry x="90" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-204" value="金猪农场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-198">
+          <mxGeometry x="90" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-213" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="800" width="270" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-214" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-213">
+          <mxGeometry width="190" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-215" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-213">
+          <mxGeometry width="190" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-216" value="基金产品BIU组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-213">
+          <mxGeometry x="10" y="40" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-217" value="世界杯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zpRi_00Q9C_xyYv95KHU-213">
+          <mxGeometry x="10" y="90" width="61" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-220" value="货架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-221" value="产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-222" value="基础能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="584" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-223" value="营销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="870" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-226" value="生息宝相关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-227" value="单基金" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="265" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-228" value="组合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-229" value="私募" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="555" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpRi_00Q9C_xyYv95KHU-230" value="准备废弃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="700" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
